@@ -1,0 +1,35 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS / iOS
+**/Pods/
+**/.symlinks/
+**/Flutter/Flutter.framework
+**/Flutter/Flutter.podspec
+**/Flutter/Generated.xcconfig
+**/Flutter/ephemeral/
+
+# Android
+**/local.properties
+**/captures/
+**/gradle-wrapper.jar
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Misc
+*.log
+.DS_Store
