@@ -105,7 +105,7 @@ class JumpAiService {
   }
 
   Future<void> dispose() async {
-    await _detector.dispose();
+    _detector.dispose();
     progress.dispose();
   }
 }

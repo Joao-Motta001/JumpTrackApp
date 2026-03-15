@@ -86,7 +86,6 @@ class ProgressChart extends StatelessWidget {
           ),
           lineTouchData: LineTouchData(
             touchTooltipData: LineTouchTooltipData(
-              tooltipRoundedRadius: 12,
               getTooltipColor: (_) => AppTheme.card,
               getTooltipItems: (items) {
                 return items.map((item) {
