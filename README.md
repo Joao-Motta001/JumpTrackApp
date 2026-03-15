@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JumpTrack
 
 JumpTrack is a volleyball athlete performance app built with Flutter for Android and iPhone. It combines onboarding, nutrition targets, hydration tracking, workout planning, vertical jump analytics, routines, calendar scheduling, and Firebase-backed cloud sync.
@@ -41,3 +42,6 @@ To enable real cloud sync:
 - iOS 14.0+
 
 Those requirements match the MediaPipe pose detection dependency used for AI jump analysis.
+=======
+# JumpTrackApp
+>>>>>>> 9a3cfe17d1c9ef9d782569968004e7a22b252c51
